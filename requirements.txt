@@ -1,0 +1,11 @@
+streamlit
+fastapi
+uvicorn
+tensorflow
+faiss-cpu
+joblib
+numpy
+pillow
+scikit-learn
+langchain
+requests

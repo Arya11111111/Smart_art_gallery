@@ -1,0 +1,22 @@
+# Ignore the image database folder  
+images/images/  
+
+# Ignore specific file types  
+*.jpg  
+*.png  
+*.tiff  
+*.jpeg  
+"faiss_index.bin" 
+"image_classifier.pkl" 
+
+image_classifier.pkl
+faiss_index.bin
+
+"image_classifier.pkl" 
+"faiss_index.bin" 
+echo "image_classifier.pkl" >> .gitignore
+echo "faiss_index.bin" >> .gitignore
+echo "image_classifier.pkl" >> .gitignore
+echo "faiss_index.bin" >> .gitignore
+echo "image_features.pkl" >> .gitignore
+
